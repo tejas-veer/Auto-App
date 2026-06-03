@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Restaurant Tycoon",
+    "slug": "restaurant-tycoon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.restauranttycoon"
+    },
+    "android": {
+      "package": "com.restauranttycoon"
+    }
+  }
+}
